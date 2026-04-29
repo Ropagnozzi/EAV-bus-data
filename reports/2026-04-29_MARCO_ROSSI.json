@@ -1,0 +1,179 @@
+{
+  "export_version": "1.0",
+  "source": "EAV Bus Manager Mobile",
+  "export_timestamp": "2026-04-29T21:29:58.784Z",
+  "data": "2026-04-29",
+  "operaio": {
+    "email": "marco.rossi@htcsrl.it",
+    "nome": "Marco Rossi"
+  },
+  "sessione": {
+    "cronoprogramma_id": "69f2681309e601b544050992",
+    "linea": "L1 - Circumvesuviana",
+    "stato": "in_corso",
+    "paline_totali": 8,
+    "paline_completate": 8,
+    "note": "Ispezione completa linea Circumvesuviana"
+  },
+  "statistiche": {
+    "tempo_totale_minuti": 2,
+    "paline_completate": 8,
+    "paline_con_manutenzione": 7,
+    "paline_ok": 0,
+    "percentuale_avanzamento": 100
+  },
+  "report_details": [
+    {
+      "report_id": "69f27576bbce11f7c852ad0e",
+      "palina_id": "69f2680b09e601b54405098d",
+      "palina_nome": "Palina Torre Annunziata",
+      "codice": "PAL-008",
+      "indirizzo": "Piazza Cesaro, Torre Annunziata",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.7535,
+        "longitudine": 14.45
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "riparazione",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:17:42.216Z",
+      "timestamp_fine": "2026-04-29T21:17:42.216Z"
+    },
+    {
+      "report_id": "69f2756da2bfacc661e20973",
+      "palina_id": "69f2680b09e601b54405098c",
+      "palina_nome": "Palina Torre del Greco",
+      "codice": "PAL-007",
+      "indirizzo": "Via Circumvallazione, Torre del Greco",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.788,
+        "longitudine": 14.366
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_palo",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:17:33.173Z",
+      "timestamp_fine": "2026-04-29T21:17:33.173Z"
+    },
+    {
+      "report_id": "69f27562bef34e119c94dc38",
+      "palina_id": "69f2680b09e601b54405098b",
+      "palina_nome": "Palina Ercolano",
+      "codice": "PAL-006",
+      "indirizzo": "Via IV Novembre, Ercolano",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.806,
+        "longitudine": 14.348
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "riparazione",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:17:22.472Z",
+      "timestamp_fine": "2026-04-29T21:17:22.472Z"
+    },
+    {
+      "report_id": "69f27555a9a78698d84d0400",
+      "palina_id": "69f2680b09e601b54405098a",
+      "palina_nome": "Palina Portici",
+      "codice": "PAL-005",
+      "indirizzo": "Corso Garibaldi, Portici",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.8174,
+        "longitudine": 14.3395
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "riparazione",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:17:09.767Z",
+      "timestamp_fine": "2026-04-29T21:17:09.767Z"
+    },
+    {
+      "report_id": "69f275477653ed2d56b3b935",
+      "palina_id": "69f2680b09e601b544050989",
+      "palina_nome": "Palina San Giorgio",
+      "codice": "PAL-004",
+      "indirizzo": "Via Pittore, San Giorgio a Cremano",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.8335,
+        "longitudine": 14.334
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_tabella",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:16:55.774Z",
+      "timestamp_fine": "2026-04-29T21:16:55.774Z"
+    },
+    {
+      "report_id": "69f27480a827e7b225e370ef",
+      "palina_id": "69f2680b09e601b544050988",
+      "palina_nome": "Palina Barra",
+      "codice": "PAL-003",
+      "indirizzo": "Via Mauro Leone, Barra",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.8442,
+        "longitudine": 14.303
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "verniciatura",
+      "note": "Basta un ritocco di vernice",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:13:36.392Z",
+      "timestamp_fine": "2026-04-29T21:13:36.392Z"
+    },
+    {
+      "report_id": "69f2745b6bbeecb0697ff016",
+      "palina_id": "69f2680b09e601b544050987",
+      "palina_nome": "Palina Porta Nolana",
+      "codice": "PAL-002",
+      "indirizzo": "Corso Garibaldi 387, Napoli",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.848,
+        "longitudine": 14.272
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_palina",
+      "note": "Palina mal ridotta non recuperabile ",
+      "foto_fronte_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/b4c96604a_foto_1777497169960.jpg",
+      "foto_retro_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/3671dbe96_foto_1777497176398.jpg",
+      "timestamp_inizio": "2026-04-29T21:12:59.269Z",
+      "timestamp_fine": "2026-04-29T21:12:59.269Z"
+    },
+    {
+      "report_id": "69f2742b61fe98b99a095ffe",
+      "palina_id": "69f2680b09e601b544050986",
+      "palina_nome": "Palina Garibaldi",
+      "codice": "PAL-001",
+      "indirizzo": "Piazza Garibaldi, Napoli",
+      "linea": "L1",
+      "coordinate": {
+        "latitudine": 40.8518,
+        "longitudine": 14.2681
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "nessuna",
+      "note": "Palina OK - Nessun intervento necessario",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-04-29T21:12:11.283Z",
+      "timestamp_fine": "2026-04-29T21:14:21.308Z"
+    }
+  ]
+}
