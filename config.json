@@ -1,0 +1,62 @@
+{
+  "app_name": "EAV Bus Manager",
+  "version": "2.0",
+  "company": "HTC Srl",
+  "copyright": "2025",
+  "github_repo": "Ropagnozzi/EAV-bus-data",
+  
+  "tipi_manutenzione": [
+    {
+      "id": 1,
+      "nome": "Riparazione",
+      "descrizione": "Riparazione componenti esistenti",
+      "colore": "#FF9800"
+    },
+    {
+      "id": 2,
+      "nome": "Sostituzione palina",
+      "descrizione": "Sostituzione completa della palina",
+      "colore": "#F44336"
+    },
+    {
+      "id": 3,
+      "nome": "Sostituzione palo",
+      "descrizione": "Sostituzione del palo di sostegno",
+      "colore": "#9C27B0"
+    },
+    {
+      "id": 4,
+      "nome": "Verniciatura",
+      "descrizione": "Verniciatura e ritintegrazione",
+      "colore": "#2196F3"
+    },
+    {
+      "id": 5,
+      "nome": "Sostituzione tabella",
+      "descrizione": "Sostituzione tabella orari/informazioni",
+      "colore": "#4CAF50"
+    },
+    {
+      "id": 6,
+      "nome": "Altro",
+      "descrizione": "Altro (specificare nelle note)",
+      "colore": "#9E9E9E"
+    }
+  ],
+  
+  "struttura_intervento": {
+    "id_palina": "String - ID univoco palina",
+    "data_intervento": "YYYY-MM-DD",
+    "tipo_manutenzione": "1-6",
+    "foto_fronte": "Base64 immagine",
+    "foto_retro": "Base64 immagine",
+    "note": "Testo libero",
+    "timestamp_creazione": "ISO 8601",
+    "operatore": "Nome operatore"
+  },
+  
+  "google_maps_api": {
+    "key": "AIzaSyBRDUil5OufIOki9y7HvI58ixezYSuNehI",
+    "description": "Chiave API per Google Maps"
+  }
+}
