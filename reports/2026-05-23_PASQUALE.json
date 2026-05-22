@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-05-22T16:15:27.389Z",
+  "export_timestamp": "2026-05-22T16:15:33.975Z",
   "data": "2026-05-23",
   "operaio": {
     "email": "commerciale@diessemedia.it",
@@ -12,17 +12,36 @@
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 5,
-    "paline_completate": 2,
+    "paline_completate": 3,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 2,
-    "paline_con_manutenzione": 2,
+    "paline_completate": 3,
+    "paline_con_manutenzione": 3,
     "paline_ok": 0,
-    "percentuale_avanzamento": 40
+    "percentuale_avanzamento": 60
   },
   "report_details": [
+    {
+      "report_id": "6a10812088978e84ba263c91",
+      "palina_id": "6a04603fa71ea9234eca9317",
+      "palina_nome": "Napoli - Via Cinthia, AGIP",
+      "codice": "20098",
+      "indirizzo": null,
+      "linea": "001, 002",
+      "coordinate": {
+        "latitudine": 40.8373899,
+        "longitudine": 14.189639
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_palina",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-05-22T16:15:28.725Z",
+      "timestamp_fine": "2026-05-22T16:15:28.725Z"
+    },
     {
       "report_id": "6a10811b576db31159ace6a7",
       "palina_id": "6a104142169898e2ecc9486c",
