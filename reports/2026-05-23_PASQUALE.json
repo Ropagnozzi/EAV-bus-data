@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-05-22T16:15:33.975Z",
+  "export_timestamp": "2026-05-22T16:15:40.513Z",
   "data": "2026-05-23",
   "operaio": {
     "email": "commerciale@diessemedia.it",
@@ -12,17 +12,55 @@
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 5,
-    "paline_completate": 3,
+    "paline_completate": 5,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 3,
-    "paline_con_manutenzione": 3,
+    "paline_completate": 5,
+    "paline_con_manutenzione": 5,
     "paline_ok": 0,
-    "percentuale_avanzamento": 60
+    "percentuale_avanzamento": 100
   },
   "report_details": [
+    {
+      "report_id": "6a10812c9de5f53c787c10da",
+      "palina_id": "6a1041449212f08175ddd21e",
+      "palina_nome": "Napoli - Via Nuova Agnano, Univ. Federico II",
+      "codice": "50403",
+      "indirizzo": null,
+      "linea": "002",
+      "coordinate": {
+        "latitudine": 40.8178652,
+        "longitudine": 14.1755092
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_palo",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-05-22T16:15:39.979Z",
+      "timestamp_fine": "2026-05-22T16:15:39.979Z"
+    },
+    {
+      "report_id": "6a108126532df09c75cfc4df",
+      "palina_id": "6a1041435e5fbd5ed835e4a0",
+      "palina_nome": "Napoli - Monte Sant'Angelo, Ateneo",
+      "codice": "20100",
+      "indirizzo": null,
+      "linea": "001, 002",
+      "coordinate": {
+        "latitudine": 40.8395163,
+        "longitudine": 14.1877731
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_palina",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-05-22T16:15:34.678Z",
+      "timestamp_fine": "2026-05-22T16:15:34.678Z"
+    },
     {
       "report_id": "6a10812088978e84ba263c91",
       "palina_id": "6a04603fa71ea9234eca9317",
