@@ -1,0 +1,65 @@
+{
+  "export_version": "1.0",
+  "source": "EAV Bus Manager Mobile",
+  "export_timestamp": "2026-05-22T16:15:27.389Z",
+  "data": "2026-05-23",
+  "operaio": {
+    "email": "commerciale@diessemedia.it",
+    "nome": "pasquale"
+  },
+  "sessione": {
+    "cronoprogramma_id": "6a108108126e04c46b25a440",
+    "linea": null,
+    "stato": "in_corso",
+    "paline_totali": 5,
+    "paline_completate": 2,
+    "note": null
+  },
+  "statistiche": {
+    "tempo_totale_minuti": 0,
+    "paline_completate": 2,
+    "paline_con_manutenzione": 2,
+    "paline_ok": 0,
+    "percentuale_avanzamento": 40
+  },
+  "report_details": [
+    {
+      "report_id": "6a10811b576db31159ace6a7",
+      "palina_id": "6a104142169898e2ecc9486c",
+      "palina_nome": "Napoli - Via Cinthia, 40 edicola",
+      "codice": "20099",
+      "indirizzo": null,
+      "linea": "001, 002",
+      "coordinate": {
+        "latitudine": 40.8358418,
+        "longitudine": 14.1904651
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "riparazione",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-05-22T16:15:22.891Z",
+      "timestamp_fine": "2026-05-22T16:15:22.891Z"
+    },
+    {
+      "report_id": "6a10811460d72e22562af0d4",
+      "palina_id": "6a1041446b70c07c6947474f",
+      "palina_nome": "Napoli - Via Cinthia, Cimitero",
+      "codice": "C5495",
+      "indirizzo": null,
+      "linea": "002",
+      "coordinate": {
+        "latitudine": 40.8319945,
+        "longitudine": 14.1911659
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "riparazione",
+      "note": null,
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-05-22T16:15:16.354Z",
+      "timestamp_fine": "2026-05-22T16:15:16.354Z"
+    }
+  ]
+}
