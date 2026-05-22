@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-05-22T16:15:40.513Z",
+  "export_timestamp": "2026-05-22T16:15:45.829Z",
   "data": "2026-05-23",
   "operaio": {
     "email": "commerciale@diessemedia.it",
@@ -10,7 +10,7 @@
   "sessione": {
     "cronoprogramma_id": "6a108108126e04c46b25a440",
     "linea": null,
-    "stato": "in_corso",
+    "stato": "completato",
     "paline_totali": 5,
     "paline_completate": 5,
     "note": null
