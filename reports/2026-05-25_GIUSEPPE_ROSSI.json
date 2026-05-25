@@ -1,0 +1,38 @@
+{
+  "data_export": "2026-05-25",
+  "cronoprogrammi_completati": [
+    {
+      "cronoprogramma_id": "TEST_001",
+      "linea": "LINEA 1",
+      "operaio_nome": "Giuseppe Rossi",
+      "paline_ispezionate": [
+        {
+          "id": "113",
+          "nomeFermata": "Napoli - Pitta Circumvesuviana",
+          "stato": "ispezionata"
+        },
+        {
+          "id": "137",
+          "nomeFermata": "Napoli - Piazza Garibaldi, Hotel Terminus",
+          "stato": "ispezionata"
+        },
+        {
+          "id": "139",
+          "nomeFermata": "Napoli - Via G. Ferraris ex garage Grilli",
+          "stato": "ispezionata"
+        },
+        {
+          "id": "3325",
+          "nomeFermata": "Torre del Greco - Via Marconi, 68 Bottazzi",
+          "stato": "ispezionata"
+        },
+        {
+          "id": "3326",
+          "nomeFermata": "Torre del Greco - Via Marconi, 30 altezza Circum",
+          "stato": "ispezionata"
+        }
+      ],
+      "timestamp": "2026-05-25T18:22:00Z"
+    }
+  ]
+}
