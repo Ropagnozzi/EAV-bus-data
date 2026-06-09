@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-09T13:33:50.421Z",
+  "export_timestamp": "2026-06-09T13:41:15.061Z",
   "data": "2026-06-09",
   "operaio": {
     "email": "roberto.pagnozzi@gmail.com",
@@ -12,17 +12,36 @@
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 27,
-    "paline_completate": 2,
+    "paline_completate": 3,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 2,
-    "paline_con_manutenzione": 2,
+    "paline_completate": 3,
+    "paline_con_manutenzione": 3,
     "paline_ok": 0,
-    "percentuale_avanzamento": 7
+    "percentuale_avanzamento": 11
   },
   "report_details": [
+    {
+      "report_id": "6a2817ea75f2ee55c68babe3",
+      "palina_id": "6a2802a93985622a02734f17",
+      "palina_nome": "Sorrento - V.le Nizza, 35",
+      "codice": "6239",
+      "indirizzo": null,
+      "linea": "008",
+      "coordinate": {
+        "latitudine": 40.62815549460826,
+        "longitudine": 14.383073836827686
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_tabella",
+      "note": "Possibile 100x140",
+      "foto_fronte_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/c64fe41c6_foto_1781012455934.jpg",
+      "foto_retro_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/69c92308e_foto_1781012457163.jpg",
+      "timestamp_inizio": "2026-06-09T13:40:58.425Z",
+      "timestamp_fine": "2026-06-09T13:40:55.835Z"
+    },
     {
       "report_id": "6a28162edfec387d47a7e790",
       "palina_id": "6a2802a67cf6d691153434e0",
