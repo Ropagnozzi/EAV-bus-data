@@ -1,0 +1,26 @@
+{
+  "export_version": "1.0",
+  "source": "EAV Bus Manager Mobile",
+  "export_timestamp": "2026-06-09T12:11:12.378Z",
+  "data": "2026-06-09",
+  "operaio": {
+    "email": "roberto.pagnozzi@gmail.com",
+    "nome": null
+  },
+  "sessione": {
+    "cronoprogramma_id": "6a2802b196a5f47139654ad4",
+    "linea": null,
+    "stato": "in_corso",
+    "paline_totali": 27,
+    "paline_completate": 0,
+    "note": null
+  },
+  "statistiche": {
+    "tempo_totale_minuti": 0,
+    "paline_completate": 0,
+    "paline_con_manutenzione": 0,
+    "paline_ok": 0,
+    "percentuale_avanzamento": 0
+  },
+  "report_details": []
+}
