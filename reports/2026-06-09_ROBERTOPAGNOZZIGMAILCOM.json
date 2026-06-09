@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-09T13:33:01.739Z",
+  "export_timestamp": "2026-06-09T13:33:22.324Z",
   "data": "2026-06-09",
   "operaio": {
     "email": "roberto.pagnozzi@gmail.com",
@@ -12,15 +12,35 @@
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 27,
-    "paline_completate": 0,
+    "paline_completate": 1,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 0,
-    "paline_con_manutenzione": 0,
+    "paline_completate": 1,
+    "paline_con_manutenzione": 1,
     "paline_ok": 0,
-    "percentuale_avanzamento": 0
+    "percentuale_avanzamento": 4
   },
-  "report_details": []
+  "report_details": [
+    {
+      "report_id": "6a281612b91e25a08ccb0021",
+      "palina_id": "6a2802b0bedf37f8d9268c9a",
+      "palina_nome": "Sorrento - ang. Via Rota Via Califano",
+      "codice": "6270",
+      "indirizzo": null,
+      "linea": "007",
+      "coordinate": {
+        "latitudine": 40.62942676138641,
+        "longitudine": 14.384547518807478
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_tabella",
+      "note": null,
+      "foto_fronte_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/48c10394f_foto_1781011982524.jpg",
+      "foto_retro_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/2e44e57d8_foto_1781011984257.jpg",
+      "timestamp_inizio": "2026-06-09T13:33:05.814Z",
+      "timestamp_fine": "2026-06-09T13:33:02.138Z"
+    }
+  ]
 }
