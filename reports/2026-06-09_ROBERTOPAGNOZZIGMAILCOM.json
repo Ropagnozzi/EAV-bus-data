@@ -1,46 +1,26 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-09T12:24:32.497Z",
+  "export_timestamp": "2026-06-09T12:36:36.599Z",
   "data": "2026-06-09",
   "operaio": {
     "email": "roberto.pagnozzi@gmail.com",
     "nome": null
   },
   "sessione": {
-    "cronoprogramma_id": "6a2805c198cf74ade6d0602b",
+    "cronoprogramma_id": "6a2808bf316d0bf43f4310a5",
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 27,
-    "paline_completate": 1,
+    "paline_completate": 0,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 1,
+    "paline_completate": 0,
     "paline_con_manutenzione": 0,
-    "paline_ok": 1,
-    "percentuale_avanzamento": 4
+    "paline_ok": 0,
+    "percentuale_avanzamento": 0
   },
-  "report_details": [
-    {
-      "report_id": "6a2805f07a7354d78a7e520c",
-      "palina_id": "6a2802b0bedf37f8d9268c9a",
-      "palina_nome": "Sorrento - ang. Via Rota Via Califano",
-      "codice": "6270",
-      "indirizzo": null,
-      "linea": "007",
-      "coordinate": {
-        "latitudine": 40.62942676138641,
-        "longitudine": 14.384547518807478
-      },
-      "stato": "ok",
-      "tipo_manutenzione": "nessuna",
-      "note": "Palina OK - Nessun intervento necessario",
-      "foto_fronte_url": null,
-      "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-09T12:24:15.970Z",
-      "timestamp_fine": "2026-06-09T12:24:15.970Z"
-    }
-  ]
+  "report_details": []
 }
