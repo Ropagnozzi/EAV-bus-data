@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-09T13:33:22.324Z",
+  "export_timestamp": "2026-06-09T13:33:50.421Z",
   "data": "2026-06-09",
   "operaio": {
     "email": "roberto.pagnozzi@gmail.com",
@@ -12,17 +12,36 @@
     "linea": null,
     "stato": "in_corso",
     "paline_totali": 27,
-    "paline_completate": 1,
+    "paline_completate": 2,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 1,
-    "paline_con_manutenzione": 1,
+    "paline_completate": 2,
+    "paline_con_manutenzione": 2,
     "paline_ok": 0,
-    "percentuale_avanzamento": 4
+    "percentuale_avanzamento": 7
   },
   "report_details": [
+    {
+      "report_id": "6a28162edfec387d47a7e790",
+      "palina_id": "6a2802a67cf6d691153434e0",
+      "palina_nome": "Sorrento - Via Rota, Ambasciatori",
+      "codice": "6234",
+      "indirizzo": null,
+      "linea": "007",
+      "coordinate": {
+        "latitudine": 40.630708543885774,
+        "longitudine": 14.383554574223535
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "sostituzione_tabella",
+      "note": null,
+      "foto_fronte_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/98273cfed_foto_1781012011098.jpg",
+      "foto_retro_url": "https://base44.app/api/apps/69f2672009e601b54405094c/files/mp/public/69f2672009e601b54405094c/0de5ac7c9_foto_1781012012523.jpg",
+      "timestamp_inizio": "2026-06-09T13:33:33.871Z",
+      "timestamp_fine": "2026-06-09T13:33:31.013Z"
+    },
     {
       "report_id": "6a281612b91e25a08ccb0021",
       "palina_id": "6a2802b0bedf37f8d9268c9a",
