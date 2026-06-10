@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-10T13:37:12.571Z",
+  "export_timestamp": "2026-06-10T13:37:13.787Z",
   "data": "2026-06-10",
   "operaio": {
     "email": "e2e.browser@test.it",
@@ -12,36 +12,17 @@
     "linea": null,
     "stato": "pianificato",
     "paline_totali": 3,
-    "paline_completate": 3,
+    "paline_completate": 2,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 3,
-    "paline_con_manutenzione": 3,
-    "paline_ok": 1,
-    "percentuale_avanzamento": 100
+    "paline_completate": 2,
+    "paline_con_manutenzione": 2,
+    "paline_ok": 0,
+    "percentuale_avanzamento": 67
   },
   "report_details": [
-    {
-      "report_id": "6a2968792ea456086e9be71c",
-      "palina_id": "6a29676ef9ef66fdf445a8bd",
-      "palina_nome": "Comiziano - Via del Progresso, 26",
-      "codice": "8607",
-      "indirizzo": null,
-      "linea": "006",
-      "coordinate": {
-        "latitudine": 40.952591298939346,
-        "longitudine": 14.548273382768858
-      },
-      "stato": "ok",
-      "tipo_manutenzione": "ordinaria",
-      "note": "Round-3 finale - esito lavorazione_iniziata",
-      "foto_fronte_url": null,
-      "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:36:56.658601",
-      "timestamp_fine": "2026-06-10T15:36:56.658607"
-    },
     {
       "report_id": "6a296878305df823c0397755",
       "palina_id": "6a29676dd3e94f2e6729086b",
