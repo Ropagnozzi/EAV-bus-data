@@ -1,0 +1,65 @@
+{
+  "export_version": "1.0",
+  "source": "EAV Bus Manager Mobile",
+  "export_timestamp": "2026-06-10T13:25:07.545Z",
+  "data": "2026-06-10",
+  "operaio": {
+    "email": "test.server@diessemedia.it",
+    "nome": "Test E2E Server"
+  },
+  "sessione": {
+    "cronoprogramma_id": "6a296578a2192cb72e4ea1c9",
+    "linea": "Linea TEST",
+    "stato": "pianificato",
+    "paline_totali": 2,
+    "paline_completate": 2,
+    "note": "Test fallback automatico webhook?direct"
+  },
+  "statistiche": {
+    "tempo_totale_minuti": 0,
+    "paline_completate": 2,
+    "paline_con_manutenzione": 2,
+    "paline_ok": 0,
+    "percentuale_avanzamento": 100
+  },
+  "report_details": [
+    {
+      "report_id": "6a2965a3da1f9e84a98a33e2",
+      "palina_id": "6a2965779fcd0c2f0d9aac3d",
+      "palina_nome": "Test A",
+      "codice": "E2ESRV_A",
+      "indirizzo": null,
+      "linea": "Linea TEST",
+      "coordinate": {
+        "latitudine": 40.85,
+        "longitudine": 14.27
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "ordinaria",
+      "note": "Simulazione tablet — esito non_presente_palina",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:24:50.769203",
+      "timestamp_fine": "2026-06-10T15:24:50.769208"
+    },
+    {
+      "report_id": "6a2965a31df64c39f5b4d30d",
+      "palina_id": "6a296577c49f4132869aa877",
+      "palina_nome": "Test B",
+      "codice": "E2ESRV_B",
+      "indirizzo": null,
+      "linea": "Linea TEST",
+      "coordinate": {
+        "latitudine": 40.86,
+        "longitudine": 14.28
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "ordinaria",
+      "note": "Simulazione tablet — esito palina_installata",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:24:50.452511",
+      "timestamp_fine": "2026-06-10T15:24:50.452530"
+    }
+  ]
+}
