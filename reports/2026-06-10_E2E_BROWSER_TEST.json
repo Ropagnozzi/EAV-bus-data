@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-10T13:37:13.787Z",
+  "export_timestamp": "2026-06-10T13:38:49.783Z",
   "data": "2026-06-10",
   "operaio": {
     "email": "e2e.browser@test.it",
@@ -12,19 +12,38 @@
     "linea": null,
     "stato": "pianificato",
     "paline_totali": 3,
-    "paline_completate": 2,
+    "paline_completate": 3,
     "note": null
   },
   "statistiche": {
     "tempo_totale_minuti": 0,
-    "paline_completate": 2,
-    "paline_con_manutenzione": 2,
-    "paline_ok": 0,
-    "percentuale_avanzamento": 67
+    "paline_completate": 3,
+    "paline_con_manutenzione": 3,
+    "paline_ok": 1,
+    "percentuale_avanzamento": 100
   },
   "report_details": [
     {
-      "report_id": "6a296878305df823c0397755",
+      "report_id": "6a2968da541f4d451a085984",
+      "palina_id": "6a29676ef9ef66fdf445a8bd",
+      "palina_nome": "Comiziano - Via del Progresso, 26",
+      "codice": "8607",
+      "indirizzo": null,
+      "linea": "006",
+      "coordinate": {
+        "latitudine": 40.952591298939346,
+        "longitudine": 14.548273382768858
+      },
+      "stato": "ok",
+      "tipo_manutenzione": "ordinaria",
+      "note": "Round-4 fix - esito lavorazione_iniziata",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:38:33.387028",
+      "timestamp_fine": "2026-06-10T15:38:33.387033"
+    },
+    {
+      "report_id": "6a2968d997b11d587d218f01",
       "palina_id": "6a29676dd3e94f2e6729086b",
       "palina_nome": "Cicciano v.Concezione R.",
       "codice": "8109",
@@ -36,14 +55,14 @@
       },
       "stato": "completato",
       "tipo_manutenzione": "ordinaria",
-      "note": "Round-3 finale - esito non_presente_palina",
+      "note": "Round-4 fix - esito non_presente_palina",
       "foto_fronte_url": null,
       "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:36:55.639042",
-      "timestamp_fine": "2026-06-10T15:36:55.639048"
+      "timestamp_inizio": "2026-06-10T15:38:32.664939",
+      "timestamp_fine": "2026-06-10T15:38:32.664945"
     },
     {
-      "report_id": "6a2968771565af191c5d9d1a",
+      "report_id": "6a2968d89317b4d8e601c466",
       "palina_id": "6a29676b1bdfd27c7a0ef880",
       "palina_nome": "Cicciano - Chiesa S. Antonio, 105",
       "codice": "8103",
@@ -55,11 +74,11 @@
       },
       "stato": "completato",
       "tipo_manutenzione": "ordinaria",
-      "note": "Round-3 finale - esito palina_installata",
+      "note": "Round-4 fix - esito palina_installata",
       "foto_fronte_url": null,
       "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:36:54.994270",
-      "timestamp_fine": "2026-06-10T15:36:54.994293"
+      "timestamp_inizio": "2026-06-10T15:38:32.047348",
+      "timestamp_fine": "2026-06-10T15:38:32.047367"
     }
   ]
 }
