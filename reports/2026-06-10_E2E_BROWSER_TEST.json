@@ -1,0 +1,84 @@
+{
+  "export_version": "1.0",
+  "source": "EAV Bus Manager Mobile",
+  "export_timestamp": "2026-06-10T13:33:43.565Z",
+  "data": "2026-06-10",
+  "operaio": {
+    "email": "e2e.browser@test.it",
+    "nome": "E2E Browser Test"
+  },
+  "sessione": {
+    "cronoprogramma_id": "6a29676ebed28cc670e6b23a",
+    "linea": null,
+    "stato": "pianificato",
+    "paline_totali": 3,
+    "paline_completate": 3,
+    "note": null
+  },
+  "statistiche": {
+    "tempo_totale_minuti": 0,
+    "paline_completate": 3,
+    "paline_con_manutenzione": 3,
+    "paline_ok": 1,
+    "percentuale_avanzamento": 100
+  },
+  "report_details": [
+    {
+      "report_id": "6a2967a8b310d717567d7338",
+      "palina_id": "6a29676ef9ef66fdf445a8bd",
+      "palina_nome": "Comiziano - Via del Progresso, 26",
+      "codice": "8607",
+      "indirizzo": null,
+      "linea": "006",
+      "coordinate": {
+        "latitudine": 40.952591298939346,
+        "longitudine": 14.548273382768858
+      },
+      "stato": "ok",
+      "tipo_manutenzione": "ordinaria",
+      "note": "E2E browser tablet sim - esito lavorazione_iniziata",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:33:27.640351",
+      "timestamp_fine": "2026-06-10T15:33:27.640358"
+    },
+    {
+      "report_id": "6a2967a769d51c4350912489",
+      "palina_id": "6a29676dd3e94f2e6729086b",
+      "palina_nome": "Cicciano v.Concezione R.",
+      "codice": "8109",
+      "indirizzo": null,
+      "linea": "006",
+      "coordinate": {
+        "latitudine": 40.96073931712643,
+        "longitudine": 14.54105755893478
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "ordinaria",
+      "note": "E2E browser tablet sim - esito non_presente_palina",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:33:26.990120",
+      "timestamp_fine": "2026-06-10T15:33:26.990126"
+    },
+    {
+      "report_id": "6a2967a7214f105f5ed1f9f5",
+      "palina_id": "6a29676b1bdfd27c7a0ef880",
+      "palina_nome": "Cicciano - Chiesa S. Antonio, 105",
+      "codice": "8103",
+      "indirizzo": null,
+      "linea": "006",
+      "coordinate": {
+        "latitudine": 40.966737906125005,
+        "longitudine": 14.53807813881232
+      },
+      "stato": "completato",
+      "tipo_manutenzione": "ordinaria",
+      "note": "E2E browser tablet sim - esito palina_installata",
+      "foto_fronte_url": null,
+      "foto_retro_url": null,
+      "timestamp_inizio": "2026-06-10T15:33:26.431052",
+      "timestamp_fine": "2026-06-10T15:33:26.431093"
+    }
+  ]
+}
