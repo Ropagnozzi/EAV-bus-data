@@ -1,7 +1,7 @@
 {
   "export_version": "1.0",
   "source": "EAV Bus Manager Mobile",
-  "export_timestamp": "2026-06-10T13:35:36.361Z",
+  "export_timestamp": "2026-06-10T13:37:12.571Z",
   "data": "2026-06-10",
   "operaio": {
     "email": "e2e.browser@test.it",
@@ -24,7 +24,7 @@
   },
   "report_details": [
     {
-      "report_id": "6a2968184fa5c61618485193",
+      "report_id": "6a2968792ea456086e9be71c",
       "palina_id": "6a29676ef9ef66fdf445a8bd",
       "palina_nome": "Comiziano - Via del Progresso, 26",
       "codice": "8607",
@@ -36,14 +36,14 @@
       },
       "stato": "ok",
       "tipo_manutenzione": "ordinaria",
-      "note": "Round-2 E2E - esito lavorazione_iniziata",
+      "note": "Round-3 finale - esito lavorazione_iniziata",
       "foto_fronte_url": null,
       "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:35:19.852760",
-      "timestamp_fine": "2026-06-10T15:35:19.852783"
+      "timestamp_inizio": "2026-06-10T15:36:56.658601",
+      "timestamp_fine": "2026-06-10T15:36:56.658607"
     },
     {
-      "report_id": "6a29681703eee56779195316",
+      "report_id": "6a296878305df823c0397755",
       "palina_id": "6a29676dd3e94f2e6729086b",
       "palina_nome": "Cicciano v.Concezione R.",
       "codice": "8109",
@@ -55,14 +55,14 @@
       },
       "stato": "completato",
       "tipo_manutenzione": "ordinaria",
-      "note": "Round-2 E2E - esito non_presente_palina",
+      "note": "Round-3 finale - esito non_presente_palina",
       "foto_fronte_url": null,
       "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:35:18.661953",
-      "timestamp_fine": "2026-06-10T15:35:18.661959"
+      "timestamp_inizio": "2026-06-10T15:36:55.639042",
+      "timestamp_fine": "2026-06-10T15:36:55.639048"
     },
     {
-      "report_id": "6a296816e1e2fb1231a1c37b",
+      "report_id": "6a2968771565af191c5d9d1a",
       "palina_id": "6a29676b1bdfd27c7a0ef880",
       "palina_nome": "Cicciano - Chiesa S. Antonio, 105",
       "codice": "8103",
@@ -74,11 +74,11 @@
       },
       "stato": "completato",
       "tipo_manutenzione": "ordinaria",
-      "note": "Round-2 E2E - esito palina_installata",
+      "note": "Round-3 finale - esito palina_installata",
       "foto_fronte_url": null,
       "foto_retro_url": null,
-      "timestamp_inizio": "2026-06-10T15:35:17.668591",
-      "timestamp_fine": "2026-06-10T15:35:17.668673"
+      "timestamp_inizio": "2026-06-10T15:36:54.994270",
+      "timestamp_fine": "2026-06-10T15:36:54.994293"
     }
   ]
 }
